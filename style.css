@@ -1,0 +1,35 @@
+body {
+    background-color: aquamarine;
+}
+
+p {
+    font-size: 20px;
+    border-radius: 9px;
+    background-color: turquoise;
+    color: white;
+
+}
+
+
+body {
+    display: grid;
+    align-items: first baseline;
+    justify-content: center;
+    height: 50vh;
+    background-color: rgb(41, 105, 41);
+    }
+    
+button {
+
+
+    font-size: 20px;
+    border-radius: 9px;
+    background-color: turquoise;
+    color: white;
+    }
+input {
+    font-size: 20px;
+    border-radius: 9px;
+    background-color: rgb(131, 14, 14);
+    color: rgb(0, 0, 0); 
+}
